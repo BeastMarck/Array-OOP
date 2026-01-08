@@ -29,7 +29,7 @@ namespace OOP_Array
         }
     }
 
-    class GameSong : Song 
+    class GameSong : Song //child class
     {
         //Variable
         public string Game { get; set; }
