@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\bin\Debug\OOP Array.exe.config
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\bin\Debug\OOP Array.exe
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\bin\Debug\OOP Array.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\obj\Debug\OOP Array.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\obj\Debug\OOP Array.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\obj\Debug\OOP Array.exe
+C:\Users\ACT-STUDENT\Desktop\OOP Array\OOP Array\obj\Debug\OOP Array.pdb
