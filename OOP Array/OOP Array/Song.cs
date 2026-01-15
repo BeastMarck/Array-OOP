@@ -8,6 +8,13 @@ namespace OOP_Array
 {
     class Song
     {
+
+        //Tacal,John Jenson
+        //REQUIREMENTS:
+        //Re-use your code in Activity 2.
+        //In your main program, use two-dimensional array of objects
+        //You have to use loop structure to access the 2D array of objects
+
         //Variables
         public string Title { get; set; }
         public string Composer { get; set; }
@@ -41,7 +48,6 @@ namespace OOP_Array
         //Method
         public override void Diplay()
         {
-            Console.WriteLine("-----Song-----");
             Console.WriteLine($"Game: {Game}");
             base.Diplay();
         }
@@ -59,7 +65,6 @@ namespace OOP_Array
         //Method
         public override void Diplay()
         {
-            Console.WriteLine("-----Song-----");
             Console.WriteLine($"Language: {Language}");
             base.Diplay();
         }
